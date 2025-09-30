@@ -1,0 +1,5 @@
+{
+  "name": "cloudflare",
+  "main": "cloudflare.js",
+  "compatibility_date": "2029-09-30"
+}
